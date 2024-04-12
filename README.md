@@ -8,7 +8,7 @@ Minishell is a lightweight shell program that supports basic shell commands and 
 
 ### Features
 Command execution: Minishell can execute shell commands entered by the user, including built-in commands and external programs.
-Environment variables: Users can manage environment variables, including setting, unsetting, and displaying their values.
+Environment variables: Users can manage environment variables, including setting them, unsetting them, and displaying their values.
 I/O redirection: Minishell supports basic I/O redirection, allowing users to redirect input and output streams to and from files.
 Error handling: Minishell provides robust error handling for invalid commands, input/output errors, and other exceptional conditions.
 
@@ -152,7 +152,7 @@ minishell$ cat <<EOF1 | grep "Hello" | wc -w <<EOF2
 [the best git hub for help on this project](https://github.com/vietdu91/42_minishell)
 
 ### Authors
-This project was created collaboratively by @Zotaru [Zotaru's github](https://github.com/Zotaru) and @Lxnchy [Lxnchy's page](https://github.com/Lxnchy) as part of the course requirements at 42 school.
+This project was created collaboratively by @Zotaru and @Lxnchy as part of the course requirements at 42 school (you can find our git hub under).
 
 <p align="center">
   <br/>
